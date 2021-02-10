@@ -1,11 +1,11 @@
-## 🔥 Bobby's Algebraic Graph Toolkit 🔥
+# 🔥 Bobby's Algebraic Graph Toolkit 🔥
 
-#### Setup
-##### Build from source
+### Setup
+#### Build from source
 
 Start the tool either using `stack run`. If you don't have [Stack](https://docs.haskellstack.org/en/stable/install_and_upgrade/) you can install it with `curl -sSL https://get.haskellstack.org/ | sh`
 
-##### Use a pre-built binary
+#### Use a pre-built binary
 
 You can find binaries for OSX, Linux & Windows in the [releases page](https://github.com/bobymicroby/boby-alga-toolkit/releases)
 
@@ -15,9 +15,9 @@ You can find binaries for OSX, Linux & Windows in the [releases page](https://gi
 
 
 
-#### How to create a graph
+### How to create a graph
 
-Type 
+With the tool open enter the following commands 
 
 ```
 follow elon bitcoin
@@ -30,7 +30,7 @@ follow greta bobby
 
 
 
-#### Viewing the graph
+### Viewing the graph
 
 Typing `show graph` will generate a link wich will open the
 following image:
@@ -39,7 +39,7 @@ following image:
 
 
 
-#### Finding 10 friends of friends
+### Finding 10 friends of friends
 
 Typing `suggest elon 10` will generate a link wich will open the
 following image:
@@ -47,7 +47,7 @@ following image:
 ![demo](assets/suggest.svg)
 
 
-#### Show who Elon is following 
+### Show who Elon is following 
 
 Typing `following elon` will generate a link wich will open the
 following image:
@@ -55,7 +55,7 @@ following image:
 ![demo](assets/following.svg)
 
 
-#### Show followers of Bitcoin
+### Show followers of Bitcoin
 
 Typing `followers bitcoin` will generate a link wich will open the
 following image:

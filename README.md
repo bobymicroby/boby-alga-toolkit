@@ -2,7 +2,7 @@
 
 ### What is Algebraic Graph
 
-Check out the whitepaper on [algebraic graphs](https://github.com/snowleopard/alga-paper/releases/download/final/algebraic-graphs.pdf) and this awesome [presentation](https://www.youtube.com/watch?v=EdQGLewU-8k) by it's Author Andrey Mokhov.
+Check out the whitepaper on [algebraic graphs](https://github.com/snowleopard/alga-paper/releases/download/final/algebraic-graphs.pdf) and this awesome [presentation](https://www.youtube.com/watch?v=EdQGLewU-8k) by it's author Andrey Mokhov.
 
 ### Setup
 

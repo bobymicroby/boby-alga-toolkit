@@ -49,7 +49,7 @@ process input = do
 
 helpText =
   "\n\
-  \🔥🔥🔥 Bobby's Algebraic Graph Toolkit 🔥🔥🔥\n\n\
+  \ Bobby's Algebraic Graph Toolkit \n\n\
   \Commands:                                                                                  \n\n\
   \ random         $n $p                         Generates random graph $n number of nodes    \n\
   \                                              $p probability of nodes to connect 0.0 - 1.0 \n\

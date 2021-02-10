@@ -3,6 +3,12 @@
 #### Setup
 Start the tool either using `stack run` if you are building from source, or download it from the releases page.
 
+> If you are on linux and receive `error while loading shared libraries: libtinfo.so.5`
+> please install  the `libncurses5` pkg  . The binary is supposed to be statically built
+> but one PopOS user reported that it's not working without installing ncurses.
+
+
+
 #### Building the graph
 
 Type 

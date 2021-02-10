@@ -1,4 +1,4 @@
-# 🔥🔥🔥 Bobby's Algebraic Graph Toolkit 🔥🔥🔥
+## 🔥 Bobby's Algebraic Graph Toolkit 🔥
 
 #### Setup
 ##### Build from source

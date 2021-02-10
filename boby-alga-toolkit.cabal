@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: a55c80511088f65f887611d529d6d1e55af2a1f504d9dc108515b11bbaf091dd
+-- hash: b5411966cad94670556f2e974bd3c20288fc769737b09012911f8736b554570c
 
 name:           boby-alga-toolkit
 version:        0.1.0.0
@@ -48,7 +48,7 @@ executable boby-alga-toolkit
       Paths_boby_alga_toolkit
   hs-source-dirs:
       app
-  ghc-options: -threaded -rtsopts -with-rtsopts=-N
+  ghc-options: -threaded -rtsopts -static -with-rtsopts=-N
   build-depends:
       base >=4.7 && <5
     , boby-alga-toolkit

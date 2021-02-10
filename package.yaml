@@ -39,6 +39,7 @@ executables:
     ghc-options:
     - -threaded
     - -rtsopts
+    - -static
     - -with-rtsopts=-N
     dependencies:
     - boby-alga-toolkit

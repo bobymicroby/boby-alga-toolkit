@@ -48,4 +48,4 @@ following image:
 Typing `followers bitcoin` will generate a link wich will open the
 following image:
 
-![demo](assets/following.svg)
+![demo](assets/followers.svg)
